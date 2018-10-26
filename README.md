@@ -1,2 +1,1 @@
-# test
-this study git command repository
+this is master update
